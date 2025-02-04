@@ -1,36 +1,36 @@
-Welcome to Noura Smiy's GitHub Profile
+## Welcome to Noura Smiy's GitHub Profile
 
-🌟 About Me
+**🌟 About Me**
 
 I am Noura Smiy, a third-year software engineering student passionate about technology, creativity, and lifelong learning. Open-minded, innovative, and always inquisitive, I thrive on solving complex problems and turning ideas into impactful software solutions.
 
-🚀 Areas of Expertise
+**🚀 Areas of Expertise**
 
-Programming & Development: Python, Java, C, Web & Mobile Development
+_Programming & Development:_ Python, Java, C, Web & Mobile Development
 
-Cloud & Networking: Cloud Solutions, IT Security, CCNA Certified
+_Cloud & Networking:_ Cloud Solutions, IT Security, CCNA Certified
 
-Data Science & Visualization: Machine Learning (Kaggle Certified), Power BI
+_Data Science & Visualization:_ Machine Learning (Kaggle Certified), Power BI
 
-Software Engineering: Database Management, ERP, Compilation, Software Testing
+_Software Engineering:_ Database Management, ERP, Compilation, Software Testing
 
-Creative Endeavors: Graphic Design & UI/UX
+_Creative Endeavors:_ Graphic Design & UI/UX
 
-🎯 Interests
+**🎯 Interests**
 
-Personal Development: Personal strategic planning, neuro-linguistic programming
+_Personal Development:_ Personal strategic planning, neuro-linguistic programming
 
-Technology: Machine learning advancements, networking innovations
+_Technology:_ Machine learning advancements, networking innovations
 
-Creative Pursuits: Graphic design and visual storytelling
+_Creative Pursuits:_ Graphic design and visual storytelling
 
-Personal Growth: The energy and the law of attraction
+_Personal Growth:_ The energy and the law of attraction
 
-Language Learning: Always exploring new languages!
+_Language Learning: _Always exploring new languages!
 
-🎓 Education & Certifications
+**🎓 Education & Certifications**
 
-Software Engineering License (2022–Present) at iTeam University
+Software Engineering License (iTeam University)
 
 CCNA1 & CCNA2 Certified (iTeam University)
 
@@ -38,23 +38,23 @@ Machine Learning Certifications (Intro & Intermediate - Kaggle)
 
 Career Boost with Power BI (Exodus Expert)
 
-🛠️ Experience
+**🛠️ Experience**
 
 VERMEG (July 2024)
 
 SOTETEL (August 2024)
 
-🌍 Languages
+**🌍 Languages**
 
-Arabic: Native
+_Arabic:_ Native
 
-English: C1
+_English:_ C1
 
-French: B2
+_French:_ B2
 
-German: A1
+_German:_ A1
 
-💌 Let's Connect!
+**💌 Let's Connect!**
 
 📧 smiy.noura@gmail.com
 
